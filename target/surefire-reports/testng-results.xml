@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="18309" started-at="2022-08-24T13:00:37 CEST" finished-at="2022-08-24T13:00:56 CEST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="18309" started-at="2022-08-24T13:00:37 CEST" finished-at="2022-08-24T13:00:56 CEST">
+      <class name="test.FirstTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.FirstTests@13c27452]" name="setUp" is-config="true" duration-ms="2163" started-at="2022-08-24T13:00:37 CEST" finished-at="2022-08-24T13:00:39 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="dragAndDropTest()[pri:0, instance:test.FirstTests@13c27452]" name="dragAndDropTest" duration-ms="2087" started-at="2022-08-24T13:00:39 CEST" finished-at="2022-08-24T13:00:41 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragAndDropTest -->
+        <test-method status="PASS" signature="dropdownTest()[pri:0, instance:test.FirstTests@13c27452]" name="dropdownTest" duration-ms="313" started-at="2022-08-24T13:00:41 CEST" finished-at="2022-08-24T13:00:42 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdownTest -->
+        <test-method status="PASS" signature="javascriptExecutorTest()[pri:0, instance:test.FirstTests@13c27452]" name="javascriptExecutorTest" duration-ms="876" started-at="2022-08-24T13:00:42 CEST" finished-at="2022-08-24T13:00:43 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- javascriptExecutorTest -->
+        <test-method status="PASS" signature="keyboardAndMouseInputTest()[pri:0, instance:test.FirstTests@13c27452]" name="keyboardAndMouseInputTest" duration-ms="295" started-at="2022-08-24T13:00:43 CEST" finished-at="2022-08-24T13:00:43 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- keyboardAndMouseInputTest -->
+        <test-method status="PASS" signature="pageScrollTest()[pri:0, instance:test.FirstTests@13c27452]" name="pageScrollTest" duration-ms="567" started-at="2022-08-24T13:00:43 CEST" finished-at="2022-08-24T13:00:44 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageScrollTest -->
+        <test-method status="PASS" signature="putAllTogetherTest()[pri:0, instance:test.FirstTests@13c27452]" name="putAllTogetherTest" duration-ms="1195" started-at="2022-08-24T13:00:44 CEST" finished-at="2022-08-24T13:00:45 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putAllTogetherTest -->
+        <test-method status="PASS" signature="radioBtnTest()[pri:0, instance:test.FirstTests@13c27452]" name="radioBtnTest" duration-ms="4353" started-at="2022-08-24T13:00:45 CEST" finished-at="2022-08-24T13:00:49 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radioBtnTest -->
+        <test-method status="PASS" signature="switchToAlertTest()[pri:0, instance:test.FirstTests@13c27452]" name="switchToAlertTest" duration-ms="237" started-at="2022-08-24T13:00:49 CEST" finished-at="2022-08-24T13:00:49 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchToAlertTest -->
+        <test-method status="PASS" signature="switchToTabTest()[pri:0, instance:test.FirstTests@13c27452]" name="switchToTabTest" duration-ms="2286" started-at="2022-08-24T13:00:49 CEST" finished-at="2022-08-24T13:00:52 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchToTabTest -->
+        <test-method status="PASS" signature="uploadFileTest()[pri:0, instance:test.FirstTests@13c27452]" name="uploadFileTest" duration-ms="295" started-at="2022-08-24T13:00:52 CEST" finished-at="2022-08-24T13:00:52 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploadFileTest -->
+        <test-method status="PASS" signature="shutDown()[pri:0, instance:test.FirstTests@13c27452]" name="shutDown" is-config="true" duration-ms="3613" started-at="2022-08-24T13:00:52 CEST" finished-at="2022-08-24T13:00:56 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutDown -->
+      </class> <!-- test.FirstTests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
